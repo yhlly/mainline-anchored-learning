@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "map_id": "REPLACE_WITH_COURSE_LECTURE_ID",
+  "title": "本章主题（待填写）",
+  "map_revision": 1,
+  "source_coverage": {
+    "known_sources": [],
+    "pages_covered": [],
+    "unverified_pages": [],
+    "source_order_cursor": null
+  },
+  "nodes": [
+    {
+      "id": "L01-M01",
+      "type": "main",
+      "label": "主线知识节点（占位）",
+      "source_refs": [],
+      "verified": false
+    }
+  ],
+  "edges": [],
+  "source_index": {},
+  "change_log": []
+}
